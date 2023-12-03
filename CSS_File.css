@@ -38,7 +38,7 @@ button.active {
 
 input[type="color"] {
     width: 20px;
-    height: 5px;
+    height: 8px;
     outline: none;
     display: flex;
     box-shadow: none;
@@ -48,4 +48,18 @@ input[type="color"] {
 
 h4 {
     color: rgb(252, 248, 248);
+}
+
+.text-area {
+    width: 950px;
+    height: 400px;
+    border: 3px solid rgb(24, 23, 23);
+    margin: auto;
+    margin-top: 20px;
+    font-size: 15px;
+    border-radius: 5px;
+    padding-left: 10px;
+    outline: none;
+    background-color: #fcfcfd;
+    
 }
