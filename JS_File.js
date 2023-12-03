@@ -41,3 +41,4 @@ function AlignLeft_Feature() {
   function Redo_Feature() {
     document.execCommand('redo', false, null);
   }
+
