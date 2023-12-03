@@ -17,3 +17,19 @@ function Font_color_Feature() {
         document.execCommand('foreColor', false, fontColor);
     }
 }
+
+function AlignLeft_Feature() {
+    document.execCommand('justifyLeft', false, null);
+  }
+
+  function Center_Feature() {
+    document.execCommand('justifyCenter', false, null);
+  }
+
+  function AlignRight_Feature() {
+    document.execCommand('justifyRight', false, null);
+  }
+
+  function Justify_Feature() {
+    document.execCommand('justifyFull', false, null);
+  }
