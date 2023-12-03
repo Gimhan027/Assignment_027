@@ -6,3 +6,6 @@ function Underline_Feature() {
     document.execCommand('underline', true, null)
 }
 
+function Italic_Feature() {
+    document.execCommand('italic', true, null)
+}
