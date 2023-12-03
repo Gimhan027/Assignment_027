@@ -35,3 +35,17 @@ button.active {
     background-color: #609dcf33;
     color: #2644c8;
 }
+
+input[type="color"] {
+    width: 20px;
+    height: 5px;
+    outline: none;
+    display: flex;
+    box-shadow: none;
+    overflow: hidden;
+    background-color: rgb(235, 235, 235);   
+}
+
+h4 {
+    color: rgb(252, 248, 248);
+}
